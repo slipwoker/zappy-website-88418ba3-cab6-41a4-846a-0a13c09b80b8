@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מתכונים ישראליים קלאסיים עם תמונות מרהיבות וכל הפרטים שצריך. בשלו אוכל ישראלי מסורתי בבית, בכל מקום בעולם. התחילו לבשל עכשיו!
+
+### חוויית מתכון
+https://example.com/recipe-experience
+כל מתכון מוצג עם תמונה מפתה, רשימת מצרכים מלאה והוראות בישול ברורות. חוויית אוכל ובישול ישראלי אמיתי שמתחילה כאן ועכשיו. בשלו איתנו!
+
+### אודות
+https://example.com/about
+למדו מי אנחנו ולמה יצרנו את האוסף המושלם של מתכונים ישראליים לישראלים בחו&quot;ל ובארץ. אהבה לאוכל ובישול ישראלי מסורתי שמחברת בין אנשים. הכירו אותנו!
+
+### צור קשר
+https://example.com/contact
+יש לכם מתכון ישראלי קלאסי שתרצו לשתף? רוצים לדעת עוד על אוכל ובישול ישראלי מסורתי? צרו איתנו קשר עכשיו ונשמח לענות על כל שאלה בהקדם האפשרי!
+
+### Products
+https://example.com/products
+המוצרים שלנו - המתכונים הכי ישראלים
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - המתכונים הכי ישראלים
+
+### Category
+https://example.com/category/:slug
+מוצרים - המתכונים הכי ישראלים
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
