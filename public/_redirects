@@ -1,11 +1,10 @@
 # Clean URL redirects for Render static hosting
-# Generated: 2026-04-30T08:40:21.354Z
+# Generated: 2026-04-30T08:41:05.021Z
 # NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
 # This file is kept for reference only
 
 /recipe-experience  /recipe-experience.html  200!
 /about  /about.html  200!
-/contact  /contact.html  200!
 /products  /products.html  200!
 /privacy  /privacy.html  200!
 /accessibility  /accessibility.html  200!
